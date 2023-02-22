@@ -1,3 +1,19 @@
 .carousel img{
   height: 500px;
 }
+
+body{
+  font-family: serif;
+}
+
+
+.form-floating{
+  margin: auto;
+  padding: 5px !important;
+}
+
+.form-control{
+  border: none;
+  border-bottom: 2px solid black;
+  padding: 5px !important;
+}
